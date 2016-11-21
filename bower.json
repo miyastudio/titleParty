@@ -1,0 +1,20 @@
+{
+  "name": "title-party",
+  "description": "标题党",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/miyastudio/titleParty",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "angular": "angularjs#^1.5.8",
+    "bootstrap": "^3.3.7",
+    "angular-material": "^1.1.1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "title-party",
+  "version": "1.0.0",
+  "description": "标题党",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "supervisor node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyastudio/titleParty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyastudio/titleParty/issues"
+  },
+  "homepage": "https://github.com/miyastudio/titleParty#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "hapi": "^15.2.0",
+    "hoek": "^4.1.0",
+    "inert": "^4.0.2",
+    "moment": "^2.16.0",
+    "mongodb": "^2.2.11",
+    "vision": "^4.1.0"
+  }
+}
